@@ -94,8 +94,8 @@ We review PRs promptly and provide constructive feedback. Beginner-friendly issu
 
 | | |
 |--|--|
-| 🌐 **Website** | [korvexia.com](https://korvexia.com) *(placeholder)* |
-| 📧 **Email** | [hello@korvexia.com](mailto:hello@korvexia.com) *(placeholder)* |
+| 🌐 **Website** | [korvexia.com](https://korvexia.com) |
+| 📧 **Email** | [hello@korvexia.com](mailto:hello@korvexia.com) |
 | 💼 **LinkedIn** | [linkedin.com/company/korvexia](https://linkedin.com/company/korvexia) |
 | 🐦 **Twitter / X** | [@Korvexia](https://twitter.com/korvexia) |
 

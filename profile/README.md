@@ -9,7 +9,6 @@
 
 [![Website](https://img.shields.io/badge/Website-korvexia.com-blue?style=flat-square)](https://korvexia.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Korvexia-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/company/korvexia)
-[![Twitter](https://img.shields.io/badge/Twitter-@Korvexia-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/korvexia)
 
 </div>
 
@@ -97,7 +96,6 @@ We review PRs promptly and provide constructive feedback. Beginner-friendly issu
 | 🌐 **Website** | [korvexia.com](https://korvexia.com) |
 | 📧 **Email** | [hello@korvexia.com](mailto:hello@korvexia.com) |
 | 💼 **LinkedIn** | [linkedin.com/company/korvexia](https://linkedin.com/company/korvexia) |
-| 🐦 **Twitter / X** | [@Korvexia](https://twitter.com/korvexia) |
 
 ---
 
